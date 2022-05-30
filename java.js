@@ -1,0 +1,1 @@
+const dfgdfg = prompt("Как тебя зовут???", "");
